@@ -1,0 +1,13 @@
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\bin\Debug\netcoreapp3.1\ROTBank.exe
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\bin\Debug\netcoreapp3.1\ROTBank.deps.json
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\bin\Debug\netcoreapp3.1\ROTBank.runtimeconfig.json
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\bin\Debug\netcoreapp3.1\ROTBank.runtimeconfig.dev.json
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\bin\Debug\netcoreapp3.1\ROTBank.dll
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\bin\Debug\netcoreapp3.1\ROTBank.pdb
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\obj\Debug\netcoreapp3.1\ROTBank.csprojAssemblyReference.cache
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\obj\Debug\netcoreapp3.1\ROTBank.csproj.CoreCompileInputs.cache
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\obj\Debug\netcoreapp3.1\ROTBank.AssemblyInfoInputs.cache
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\obj\Debug\netcoreapp3.1\ROTBank.AssemblyInfo.cs
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\obj\Debug\netcoreapp3.1\ROTBank.dll
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\obj\Debug\netcoreapp3.1\ROTBank.pdb
+C:\Users\FredOn\source\repos\ROTBank\ROTBank\obj\Debug\netcoreapp3.1\ROTBank.genruntimeconfig.cache
